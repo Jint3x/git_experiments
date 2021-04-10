@@ -23,5 +23,7 @@ function add(a, b) {
 // Better. Yes
 >>>>>>> test2
 
+Even more data.
+
 exports.diff = diff;
 exports.add = add;
