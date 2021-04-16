@@ -13,15 +13,6 @@ function add(a, b) {
 }
 
 
-// Better.
-// How can you not love it?
-// Even more data
 
-Even more data.
 
-exports.diff = diff;
-exports.add = add;
-
-vvv // vvvv
-// Fixed this
-asdasdad
+function special() {}
