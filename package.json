@@ -4,7 +4,8 @@
   "description": "A repo to test different things on github such as comments, issues, commits, actions.",
   "main": "index.js",
   "scripts": {
-    "test": "jest __tests__"
+    "test": "jest __tests__",
+    "echo": "echo hello world!"
   },
   "keywords": [],
   "author": "",
