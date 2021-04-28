@@ -29,5 +29,7 @@ function special() {
 asdasd
 
 asd
+asdasd
 
 // Another change.
+asd
