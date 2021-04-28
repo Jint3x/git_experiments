@@ -3,6 +3,7 @@ import test from "./test.mjs";
 test();
 
 function diff(a, b) {
+    console.log(a);
     return a - b;
 }
 
