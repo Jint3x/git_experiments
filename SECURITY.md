@@ -19,38 +19,5 @@ Use this section to tell people how to report a vulnerability.
 Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
-p
-z
-this is a test
 
-
-
-Even more data.
-I prefer to have this info here.
-I prefer to have this info here.
-I prefer to have this info here.
-asdasd
-asdasd
-
-I prefer having cat girls than fox girls.
-
-asd
-
-asd
-
-
-
-asd2
-
-
-asd3
-
-
-asd4
-
-
-asd5asd
-as
-dasd
-asdasd
-adasd
+# Cleared the file a bit  -Jint3x
