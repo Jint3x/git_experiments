@@ -7,7 +7,6 @@ asdasd
 
 asdasd
 
-<<<<<<< HEAD
 asdasd
 
 // Added a comment;
@@ -17,6 +16,4 @@ asdasd
 // Added a comment 3;
 
 // Added a comment 4;
-=======
-asdasd
->>>>>>> parent of f1326d8 (Added a file (#35))
+Even more data
