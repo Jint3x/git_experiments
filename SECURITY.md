@@ -21,3 +21,5 @@ reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 
 # Cleared the file a bit  -Jint3x
+
+Adding new information.
