@@ -23,3 +23,5 @@ declined, etc.
 # Cleared the file a bit  -Jint3x
 
 Adding new information.
+
+Adding some information here as well.
