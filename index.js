@@ -10,6 +10,7 @@ function diff(a, b) {
 
 
 function add(a, b) {
+    // More data
     return a + b;
 }
 
